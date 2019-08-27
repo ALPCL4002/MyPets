@@ -1,0 +1,15 @@
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\bin\Debug\netstandard2.0\MyPetsPrototipo.deps.json
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\bin\Debug\netstandard2.0\MyPetsPrototipo.dll
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\bin\Debug\netstandard2.0\MyPetsPrototipo.pdb
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\MyPetsPrototipo.csprojAssemblyReference.cache
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\MyPetsPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\MyPetsPrototipo.AssemblyInfoInputs.cache
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\MyPetsPrototipo.AssemblyInfo.cs
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\MyPetsPrototipo.dll
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\MyPetsPrototipo.pdb
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\CadUs.xaml.g.cs
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\CadPets.xaml.g.cs
+C:\Users\Luiza\source\repos\MyPetsPrototipo\MyPetsPrototipo\MyPetsPrototipo\obj\Debug\netstandard2.0\XamlC.stamp
